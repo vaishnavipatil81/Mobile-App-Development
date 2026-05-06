@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fragment Communication App"
+rootProject.name = "absolutelayout"
 include(":app")
+ 
